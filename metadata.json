@@ -1,0 +1,6 @@
+{
+  "name": "Francés A1 - Unidad 1",
+  "description": "Plataforma interactiva para practicar saludos, presentaciones e identificación de personas de nivel A1 con audio incorporado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
